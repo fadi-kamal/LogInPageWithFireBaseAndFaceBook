@@ -1,0 +1,20 @@
+
+
+
+<!-- <?xml version= "1.0" encoding ="utf-8"?>
+<resources>
+<string name="app_name">auth project</string>
+<string name="facebook_app_id">1234</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">56789</string>
+</resources>
+ -->
+
+
+<!-- <?xml version="1.0" encoding="utf-8"?> -->
+<resources>
+    <string name="app_name">BakingApp</string> // من اسم التطبيق 
+    <string name="facebook_app_id">600589235103716</string> // رقم التطبيق الموجود في موقع  الفيس 
+    <string name="fb_login_protocol_scheme">fb600589235103716</string> // نفس الرقم
+    <string name="facebook_client_token">bfd987cf0cfa73a13a54481c9f368851</string> // توكن الخاص بلعميل 
+</resources>
